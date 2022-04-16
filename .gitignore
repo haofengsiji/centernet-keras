@@ -1,0 +1,11 @@
+*.docx
+*.doc
+*.png
+__pycache__
+.ipynb_checkpoints
+datasets/*/*
+!datasets/CamVid/README.md
+logs/*
+VOCdevkit/*
+test
+*.tar
